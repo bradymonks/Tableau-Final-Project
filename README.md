@@ -1,9 +1,9 @@
 # Tableau-Final-Project
 
-### June 23, 2023
+June 23, 2023
 
-### Brady Monks
-### Dr. Denise Case
+Brady Monks
+Dr. Denise Case
 
 ## Overview
 
